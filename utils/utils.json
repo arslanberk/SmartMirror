@@ -1,0 +1,21 @@
+{
+  "language": "tr",
+  "clock": {
+    "locale": "tr_TR",
+    "time_format": 24,
+    "date_format": "%b %d, %Y"
+  },
+  "currency": {
+    "exchange_to": "TRY"
+  },
+  "news": {
+    "newsapi_key": "38361f2ffc5d4b34b35db14951cd6311",
+    "country": "tr",
+    "page_size": 5
+  },
+  "weather": {
+    "openweathermap_api_key": "7df30e34f8423f4bacd3ba1f8716f9a4",
+    "language": "TR",
+    "units": "metric"
+  }
+}
